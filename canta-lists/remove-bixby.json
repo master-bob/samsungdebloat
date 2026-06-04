@@ -10,6 +10,7 @@
     {"packageName": "com.samsung.android.bixby.voiceinput"},
     {"packageName": "com.samsung.android.bixbyvision.framework"},
     {"packageName": "com.samsung.android.bixby.ondevice.enus"},
-    {"packageName": "com.samsung.android.bixby.ondevice.frfr"}
+    {"packageName": "com.samsung.android.bixby.ondevice.frfr"},
+    {"packageName": "com.samsung.android.vision.intelligence"},
   ]
 }
